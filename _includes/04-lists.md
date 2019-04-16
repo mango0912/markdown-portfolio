@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+1. M
+2. Y
+3. C
+   1. M
+   2. Y
+
+* 12
+* 23
+   - 34
+   - 56
